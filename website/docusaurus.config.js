@@ -92,10 +92,10 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
-          {
-            type: 'localeDropdown',
-            position: 'left',
-          },
+//          {
+//            type: 'localeDropdown',
+//            position: 'left',
+//          },
         ],
       },
       footer: {
@@ -141,7 +141,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} StatsHouse. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} StatsHouse.`,
       },
       prism: {
         theme: prismThemes.github,
