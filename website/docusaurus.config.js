@@ -9,8 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'StatsHouse',
-  tagline: 'A highly-available, scalable, multi-tenant monitoring system.',
-  favicon: 'img/favicon.ico',
+  tagline: 'A highly-available, scalable, multi-tenant monitoring system',
+//  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -75,10 +75,10 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'StatsHouse',
-        logo: {
-          alt: 'StatsHouse Logo',
-          src: 'img/logo.svg',
-        },
+//        logo: {
+//          alt: 'StatsHouse Logo',
+//          src: 'img/logo.svg',
+//        },
         items: [
           {
             type: 'docSidebar',
