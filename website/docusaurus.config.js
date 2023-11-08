@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'StatsHouse-3',
+  title: 'StatsHouse-demo-website',
   tagline: 'A highly-available, scalable, multi-tenant monitoring system',
 //  favicon: 'img/favicon.ico',
 
